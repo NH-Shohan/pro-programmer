@@ -1,6 +1,7 @@
 # Pro-Programmer
 
-## [Assignment Repo link](https://classroom.github.com/a/_95-pu4E)
+## [Assignment Repo link](https://github.com/ProgrammingHeroWC4/the-superhero-direction-NH-Shohan)
+### [Assignment Live Link](https://pro-programmer.netlify.app/)
 
 ## This website is used to make your own team for any project or team work. 
 
