@@ -1,0 +1,19 @@
+/* header section style */
+.header {
+  color: white;
+  background-color: #00000055;
+  width: 70%;
+  border: 2px solid #ffffff;
+  backdrop-filter: blur(5px);
+  border-radius: 15px;
+  margin-top: 10px;
+  position: sticky;
+  top: 0;
+}
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+.header-logo img {
+  width: 100px;
+}

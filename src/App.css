@@ -1,10 +1,18 @@
+/* App section */
 .App {
   text-align: center;
+  font-family: "Poppins", sans-serif;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+/* Body section */
+.body {
+  background-image: url("./images/background.jpg");
+  background-size: calc(100%);
+  background-attachment: fixed;
 }
 
 @media (prefers-reduced-motion: no-preference) {

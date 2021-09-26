@@ -1,0 +1,9 @@
+main {
+  margin-left: 100px;
+  margin-right: 60px;
+}
+.programmer-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 20px;
+}

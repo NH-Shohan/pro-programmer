@@ -1,0 +1,31 @@
+/* all coder css style */
+.coder-container {
+  color: white;
+  display: grid;
+  line-height: 16px;
+  grid-template-columns: repeat(3, 1fr);
+}
+.coder-card {
+  background-color: #00000055;
+  border: 2px solid #828282;
+  backdrop-filter: blur(5px);
+  margin: 10px;
+  border-radius: 15px;
+  width: 250px;
+  padding: 10px;
+}
+.coder-image img {
+  width: 100%;
+  border-radius: 7px;
+}
+
+.card-btn {
+  border: 1px solid black;
+  color: white;
+  background-color: #ff000077;
+  padding: 10px 20px;
+  border-radius: 7px;
+}
+.card-btn:hover {
+  cursor: pointer;
+}
